@@ -1,0 +1,7 @@
+/node_modules
+/dist
+/.idea
+gitignore
+.DS_Store
+.DS_Store?
+._*
